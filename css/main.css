@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500&display=swap');
- :root {
+:root {
     --fuente: 'Poppins', sans-serif;
     --fuentecolor: rgb(41, 13, 222);
     --fuenteboton: rgba(91, 70, 230, 0.867);
@@ -290,6 +290,12 @@ footer {
     color: #0af622;
 }
 
+
+/* * End footer */
+
+
+/* * Start media */
+
 @media screen and (max-width: 800px) {
     /* * Estilos Generales Responsive */
     .hero__text h1 {
@@ -365,3 +371,6 @@ footer {
         width: 95%;
     }
 }
+
+
+/* * End footer */
